@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/36kr资讯爬虫.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TCP.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/THREADING.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Verify的使用，报错的解决.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ailen_invasion.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alien_invasion/alien.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alien_invasion/alien_invasion.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alien_invasion/bullet.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alien_invasion/button.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alien_invasion/game_functions.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alien_invasion/game_stats.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alien_invasion/scoreboard.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alien_invasion/setting.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alien_invasion/ship.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/douban_book.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/douban_book_top250.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/excel写入.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/excel表格数据写入测试.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filedownload.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ip代理—http或https.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ip代理—ip地址.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/templates/MUlti.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web留言.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zx.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/人人网session.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/堆糖头像爬取.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/堆糖头像爬虫.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/备胎.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/多任务udp聊天器.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/多文件夹copy.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/微信监听.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/情侣头像.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/情侣头像—我要个性网.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/情头.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/我要个性网.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/我要个性网情侣/新华社.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/我要个性网爬虫.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/正则表达式.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/百度翻译在线版.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/虎扑评论爬虫.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/豆瓣书评top250.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/豆瓣新书爬出.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/豆瓣电影top250.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/重构爬虫.py" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
